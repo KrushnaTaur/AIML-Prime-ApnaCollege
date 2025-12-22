@@ -1,0 +1,4 @@
+Text to overwrite 
+the complete data
+New text appended in file
+python
