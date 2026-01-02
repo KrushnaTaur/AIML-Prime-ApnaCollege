@@ -1,0 +1,10 @@
+CREATE DATABASE college;
+CREATE DATABASE IF NOT EXISTS instagram;
+
+USE college;
+USE instagram;
+
+DROP DATABASE college;
+DROP DATABASE IF EXISTS instagram;
+
+SHOW DATABASES;
