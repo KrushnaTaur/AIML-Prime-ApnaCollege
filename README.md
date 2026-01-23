@@ -19,7 +19,7 @@ It is organized module-wise to track my progress and build a strong AI/ML founda
 ## 📌 Progress
 
 - ✅ Python Fundamentals — Completed  
-- ⏳ Data Handling — In Progress  
+- ✅ Data Handling — Completed  
 - ⏳ Machine Learning — Upcoming  
 - ⏳ Deep Learning — Upcoming  
 - ⏳ GenAI — Upcoming  
@@ -35,4 +35,4 @@ To complete the Prime AIML course with strong practical understanding and build 
 
 ## 🚀 Updates
 
-This repository will be updated regularly as I complete new topics and assignments.
+This repository will be updated regularly as I complete new modules and projects.
